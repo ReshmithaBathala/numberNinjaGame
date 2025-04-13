@@ -23,7 +23,7 @@ The **Math Speed Challenge** is a Python-based application designed to help user
 3. Navigate to the project directory in your terminal.
 4. Run the Python script:
    ```bash
-   python math_speed_challenge.py
+   python numberNinjaGame.py
 5. The game will open in a GUI window where you can start the game by clicking the "Start" button.
 
 ## How to Play
